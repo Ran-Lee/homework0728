@@ -1,0 +1,135 @@
+.clear:after{
+content: '';
+display: block;
+clear: both;
+}
+.wrapper{
+width: 977px;
+padding-left: 18px;
+background: #f7f7f7;
+border:1px solid #e4e4e4;
+margin: 50px auto;
+}
+.fl{
+  float: left;
+}
+.fr{
+float: right;
+}
+a,strong{
+  display: block;
+  float: left;
+font-size: 12px;
+color: #666666;
+}
+/*header{
+  background: red;
+}*/
+header a{
+color: #ffffff;
+padding-left: 8px;
+padding-right: 32px;
+line-height: 24px;
+margin-right:10px;
+margin-top: 20px;
+ background:#7c7171;
+}
+header .a1{
+ background: no-repeat url(../images/小箭头.png) 43px 2px #7c7171;
+}
+header .a2{
+   background: no-repeat url(../images/小箭头.png) 64px 2px #7c7171;
+}
+header .a3{
+background: no-repeat url(../images/小箭头.png) 76px 2px #7c7171;
+}
+header .a4{
+background: no-repeat url(../images/小箭头.png) 52px 2px #7c7171;
+}
+header .a5{
+background: no-repeat url(../images/小箭头.png) 66px 2px #7c7171;
+}
+header .a6{
+background: no-repeat url(../images/小箭头.png) 64px 2px #7c7171;
+}
+.left{
+  width: 62px;
+  padding-left: 5px;
+  padding-right: 17px;
+/*background: green;*/
+
+}.left a{
+  font-weight: bold;
+  padding-right: 13px;
+  color: #000000;
+
+}
+.left .o1{
+  line-height: 30px;
+  margin-top: 12px;
+background: no-repeat url(../images/ttt.png) 57px 10px ;
+}
+.left .o2{
+line-height: 32px;
+margin-top: 5px;
+background: no-repeat url(../images/ttt.png) 57px 12px;
+}
+
+.left .o4{
+line-height: 42px;
+margin-bottom: 19px;
+background: no-repeat url(../images/ttt.png) 57px 16px;
+}
+.left .o9{
+  line-height: 36px;
+  margin-top: 3px;
+  background: no-repeat url(../images/ttt.png) 57px 13px;
+}
+.left .t1{
+  padding-left: 12px;
+}
+.middle{
+  width: 620px;
+  /*background: orange;*/
+}
+.middle a,.middle strong{
+
+margin-right: 8px;
+}
+.middle .l1{
+  line-height: 34px;
+  padding-top: 8px;
+  border-bottom: 1px solid #e4e4e4;
+}
+.middle .l2{
+  line-height: 34px;
+  padding-top: 2px;
+  border-bottom: 1px solid #e4e4e4;
+}
+
+.middle .l4{
+line-height: 24px;
+padding-top: 7px;
+padding-bottom: 5px;
+  border-bottom: 1px solid #e4e4e4;
+}
+.middle .l9{
+  line-height: 38px
+}
+
+.fr{
+  width: 168px;
+  margin-top: 20px;
+  margin-right: 18px;
+}
+.d1{
+  margin-left: 1px;
+  margin-bottom: 1px;
+}
+.d2{
+  margin-top: 9px;
+}
+.d3{
+  margin-top: 1px;
+  margin-left: 1px;
+}
